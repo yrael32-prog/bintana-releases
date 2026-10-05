@@ -4,14 +4,14 @@
     <title>Bintana updates</title>
     <language>en</language>
     <item>
-      <title>Bintana 0.1.1</title>
-      <pubDate>Sun, 04 Oct 2026 19:55:23 +0000</pubDate>
-      <enclosure url="https://github.com/yrael32-prog/bintana-releases/releases/download/v0.1.1/Bintana-Setup-0.1.1.exe"
-                 sparkle:version="0.1.1"
+      <title>Bintana 0.1.2</title>
+      <pubDate>Mon, 05 Oct 2026 05:19:28 +0000</pubDate>
+      <enclosure url="https://github.com/yrael32-prog/bintana-releases/releases/download/v0.1.2/Bintana-Setup-0.1.2.exe"
+                 sparkle:version="0.1.2"
                  sparkle:os="windows-x64"
                  sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /NOCANCEL /NORESTART"
-                 sparkle:edSignature="HT+nH0riLnoq5g+9m9eGOOwCvRPk2sIi1MtlHHzCqu2enXBe/++SmO/JAcjFN/gLNue8tbHGAd0sgCLMhCnaBg=="
-                 length="20385259"
+                 sparkle:edSignature="qSg1soh5ADNlB5yil5vmtfm0Xi0jOMLgKmwzL3KRuhm4goZPCyOY4rVz7WdQRco2blMYYIw4EJxzqNFbH8/+Aw=="
+                 length="20451142"
                  type="application/octet-stream" />
     </item>
   </channel>
